@@ -28,7 +28,6 @@ dependencies:
   intl: ^0.16.1
   http: ^0.12.0+4
   flutter_spinkit: ^4.1.2
-  alpha2_countries: ^1.0.5
 
 dev_dependencies:
   flutter_test:
