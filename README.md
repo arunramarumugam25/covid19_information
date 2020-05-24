@@ -1,4 +1,4 @@
-# covid19_information
+# Covid19_Tracker
 This is a Flutter based Cross platform application designed to get COVID-19 Status for local and global range.
 
 In this project i have used the coronavirus-tracker-api by ExpDev07, which is based on data kindly provided by Johns Hopkins.It’s a pretty simple API, doesn’t need any keys and only has 2 GET endpoints, latest, for the global data, and locations, for the local data.
