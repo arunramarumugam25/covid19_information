@@ -8,6 +8,7 @@ In this project i have used the coronavirus-tracker-api by ExpDev07, which is ba
 <img src='https://raw.githubusercontent.com/arunramarumugam25/covid19_tracker/master/global.jpg' width=300 height=600/>
 
 Packages Used and their Purpose:
+
 1.Geolocator:
 A Flutter geolocation plugin which provides easy access to the platform specific location services
 
